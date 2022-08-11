@@ -1,8 +1,12 @@
-#Bootcamp Cientista de Dados - Professor Fernando Amaral
+#Projeto primeiramente feito junto ao bootcamp Cientista de Dados: aplicações Web, porém ainda em desenvolvimento por mim
+## todos os códigos foram e estão sendo digitados por mim em prol do meu desenvolvimento
+
+#Libs
 library(shiny)
 library(forecast)
 library(ggplot2)
 
+#ui interface
 ui <- fluidPage(
   titlePanel("Sistema de Análise e Previsão de Séries Temporais"),
   fluidRow(
