@@ -1,2 +1,4 @@
 # Projeto-aplicacao-web-com-R
-Sistema de Análise e Previsão de Séries Temporais
+
+Projeto para análise de previsão de séries temporais usando arquivos CSV. 
+
